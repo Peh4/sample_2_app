@@ -41,4 +41,7 @@ describe "LayoutLinks" do
     response.should have_selector('title', :content => "Sign up")
   end
   
+  
+  
+  
 end
